@@ -5,7 +5,7 @@
   <title>Cotação USDT/BRL B2B OffMarketing</title>
   <!-- Ícone da página (favicon) -->
   <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/5616/5616541.png" type="image/png">
-  <style>
+  <style> 
     body {
       background-color: #111;
       color: #fff;
